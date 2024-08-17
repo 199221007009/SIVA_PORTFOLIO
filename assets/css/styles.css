@@ -314,11 +314,7 @@ img {
   box-shadow: 0 4px 25px rgba(14, 36, 49, 0.15);
 }
 
-.skill_icon {
-  font-size: 2rem;
-  margin-right: var(--mb-2);
-  color: var(--first-color);
-}
+
 
 .skills_name {
   display: flex;
@@ -379,11 +375,7 @@ img {
   box-shadow: 0 4px 25px rgba(0, 0, 0, 0.15);
 }
 
-.Tools_icon {
-  font-size: 2rem;
-  margin-right: var(--mb-2);
-  color: var(--first-color);
-}
+
 
 .Tools_name {
   display: flex;
